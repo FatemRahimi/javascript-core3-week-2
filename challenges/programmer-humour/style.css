@@ -1,0 +1,5 @@
+#displayImage{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(56,49,73);
+}
